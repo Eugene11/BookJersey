@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BooksApp-ejb/BooksApp-ejb.iml" filepath="$PROJECT_DIR$/BooksApp-ejb/BooksApp-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BooksApp-web/BooksApp-web.iml" filepath="$PROJECT_DIR$/BooksApp-web/BooksApp-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booksApp.iml" filepath="$PROJECT_DIR$/booksApp.iml" />
+    </modules>
+  </component>
+</project>
